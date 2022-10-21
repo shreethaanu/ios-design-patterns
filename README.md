@@ -1,6 +1,7 @@
 # ios-design-patterns
 
-This is one of the open source application i'm building with SwiftUI. This is an Ecommerce application i mentioned in ios-opensource repository. This wil;l be one of the product of StrLabz.
+- This repo contains all my Sample applications of iOS Design patterns written using swift. 
+- Link for my Design patterns Blog : https://shreethaanur.medium.com/design-patterns-in-ios-55d00c2eef4c
 
 ## Patterns
 
